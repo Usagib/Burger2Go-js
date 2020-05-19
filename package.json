@@ -1,0 +1,28 @@
+{
+  "name": "js-restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant page in JavaScript for learning purposes",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usagib/js-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usagib/js-restaurant/issues"
+  },
+  "homepage": "https://github.com/Usagib/js-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
