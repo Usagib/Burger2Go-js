@@ -1,0 +1,66 @@
+.banner-row {
+  height: 600px;
+  background: url('./banner.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.feature-div-1 {
+  height: 400px;
+  background: url('./feature1.png');
+  box-sizing: border-box;
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.feature-div-2 {
+  height: 400px;
+  background: url('./feature2.png');
+  box-sizing: border-box;
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.feature-div-3 {
+  height: 400px;
+  background: url('./feature3.png');
+  box-sizing: border-box;
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.brand-logo {
+  height: 50px;
+}
+
+.brand-img {
+  height: 50px;
+}
+
+.animate {
+  animation-duration: 0.3s;
+  animation-fill-mode: both;
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(1rem);
+    opacity: 0;
+  }
+  100% {
+    transform:translateY(0rem);
+    opacity: 1;
+  }
+  0% {
+    transform: translateY(1rem);
+    opacity: 0;
+  }
+}
+
+.slideIn {
+  animation-name: slideIn;
+}
