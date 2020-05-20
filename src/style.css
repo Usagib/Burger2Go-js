@@ -1,35 +1,35 @@
 .banner-row {
-  height: 600px;
+  height: 480px;
   background: url('./banner.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
 }
 
 .feature-div-1 {
-  height: 400px;
+  height: 320px;
   background: url('./feature1.png');
   box-sizing: border-box;
   background-size: auto;
-  background-position: center;
+  background-position: contain;
   background-repeat: no-repeat;
 }
 
 .feature-div-2 {
-  height: 400px;
+  height: 320px;
   background: url('./feature2.png');
   box-sizing: border-box;
   background-size: auto;
-  background-position: center;
+  background-position: contain;
   background-repeat: no-repeat;
 }
 
 .feature-div-3 {
-  height: 400px;
+  height: 320px;
   background: url('./feature3.png');
   box-sizing: border-box;
   background-size: auto;
-  background-position: center;
+  background-position: contain;
   background-repeat: no-repeat;
 }
 
