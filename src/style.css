@@ -1,6 +1,6 @@
 .banner-row {
   height: 480px;
-  background: url('./assets/banner.png');
+  background: url('./banner.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -8,7 +8,7 @@
 
 .feature-div-1 {
   height: 320px;
-  background: url('./assets/feature1.png');
+  background: url('./feature1.png');
   box-sizing: border-box;
   background-size: auto;
   background-position: contain;
@@ -17,7 +17,7 @@
 
 .feature-div-2 {
   height: 320px;
-  background: url('./assets/feature2.png');
+  background: url('./feature2.png');
   box-sizing: border-box;
   background-size: auto;
   background-position: contain;
@@ -26,7 +26,7 @@
 
 .feature-div-3 {
   height: 320px;
-  background: url('./assets/feature3.png');
+  background: url('./feature3.png');
   box-sizing: border-box;
   background-size: auto;
   background-position: contain;
