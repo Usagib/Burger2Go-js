@@ -11,6 +11,7 @@ const init = () => {
 }
 
 let page = document.getElementById('content');
+
 init();
 page.appendChild(navigationBar());
 page.appendChild(tabElements(homeTab(),menuTab(),contactTab()));
