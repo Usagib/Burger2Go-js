@@ -2,7 +2,7 @@
 <br />
 <p align="center">
  <a href="https://github.com/Usagib/js-restaurant">
-   <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" alt="Logo">
+   <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" alt="Logo" style="width: 30%;">
 
  </a>
 
